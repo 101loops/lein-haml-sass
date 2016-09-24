@@ -1,6 +1,6 @@
 # lein-sass [![Build Status](https://travis-ci.org/101loops/lein-sass.svg)](https://travis-ci.org/101loops/lein-sass)
 
-**NOTE: not maintained anymore**
+**NOTE: the project is now maintained here: https://github.com/tuhlmann/lein-sass
 
 Leiningen plugin to compile SASS/SCSS files with [SassC](https://github.com/sass/sassc).
 
